@@ -72159,28 +72159,24 @@ case 3:return A.K(null,r)}})
 return A.L($async$$0,r)},
 $S:8}
 A.a_Y.prototype={
-$0(){var s="/aboutus",r=$.aP()
-A.dM(r)
-A.ej(r,s,t.z)
-window.location.href=s},
+$0(){var s=$.aP()
+A.dM(s)
+A.ej(s,"/aboutus",t.z)},
 $S:0}
 A.a_Z.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/team",t.z)
-window.location.href="/team"},
+A.ej(s,"/team",t.z)},
 $S:0}
 A.a0_.prototype={
-$0(){var s="/portfolio",r=$.aP()
-A.dM(r)
-A.ej(r,s,t.z)
-window.location.href=s},
+$0(){var s=$.aP()
+A.dM(s)
+A.ej(s,"/portfolio",t.z)},
 $S:0}
 A.a00.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/blog",t.z)
-window.location.href="/blog"},
+A.ej(s,"/blog",t.z)},
 $S:0}
 A.cs.prototype={
 a8(){return new A.Pd()}}
@@ -72231,26 +72227,22 @@ case 3:return A.K(null,r)}})
 return A.L($async$$0,r)},
 $S:8}
 A.a05.prototype={
-$0(){A.dM($.aP())
-window.location.href="/aboutus"},
+$0(){A.dM($.aP())},
 $S:0}
 A.a06.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/team",t.z)
-window.location.href="/team"},
+A.ej(s,"/team",t.z)},
 $S:0}
 A.a07.prototype={
-$0(){var s="/portfolio",r=$.aP()
-A.dM(r)
-A.ej(r,s,t.z)
-window.location.href=s},
+$0(){var s=$.aP()
+A.dM(s)
+A.ej(s,"/portfolio",t.z)},
 $S:0}
 A.a08.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/blog",t.z)
-window.location.href="/blog"},
+A.ej(s,"/blog",t.z)},
 $S:0}
 A.H1.prototype={
 K(a){var s=null,r=t.p
@@ -72281,26 +72273,22 @@ case 3:return A.K(null,r)}})
 return A.L($async$$0,r)},
 $S:8}
 A.a0d.prototype={
-$0(){A.dM($.aP())
-window.location.href="/aboutus"},
+$0(){A.dM($.aP())},
 $S:0}
 A.a0e.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/team",t.z)
-window.location.href="/team"},
+A.ej(s,"/team",t.z)},
 $S:0}
 A.a0f.prototype={
-$0(){var s="/portfolio",r=$.aP()
-A.dM(r)
-A.ej(r,s,t.z)
-window.location.href=s},
+$0(){var s=$.aP()
+A.dM(s)
+A.ej(s,"/portfolio",t.z)},
 $S:0}
 A.a0g.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/blog",t.z)
-window.location.href="/blog"},
+A.ej(s,"/blog",t.z)},
 $S:0}
 A.Hp.prototype={
 K(a){var s=null,r=A.cz(a,0,420,480),q=t.p
@@ -72353,11 +72341,9 @@ $2(a,b){var s=null,r=this.a,q=A.aR(r.c,B.fx.bP(B.h),s),p=r.d,o=p?B.OM:A.bp(s,s,B
 return A.hJ(!1,!0,new A.b0(new A.at(0,0,40,0),A.c0(A.a([q,o,p?B.AK:A.bp(s,s,B.l,s,s,s,s,s,s,s,s,s,s)],t.p),B.n,B.Z),s),s,!0,s,s,s,s,s,s,s,s,s,new A.a7m(r),s)},
 $S:64}
 A.a7m.prototype={
-$0(){var s,r=$.aP()
-A.dM(r)
-s=this.a.e
-A.ej(r,s,t.z)
-window.location.href=s},
+$0(){var s=$.aP()
+A.dM(s)
+A.ej(s,this.a.e,t.z)},
 $S:0}
 A.xR.prototype={
 K(a){var s=this,r=null,q=t.p
@@ -72396,32 +72382,27 @@ return new A.Gs(B.h,A.px(A.c0(A.a([new A.kJ("assets/svg/homeSvg.svg","Home",r.c,
 A.aho.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/",t.z)
-window.location.href="/"},
+A.ej(s,"/",t.z)},
 $S:0}
 A.ahp.prototype={
-$0(){var s="/aboutus",r=$.aP()
-A.dM(r)
-A.ej(r,s,t.z)
-window.location.href=s},
+$0(){var s=$.aP()
+A.dM(s)
+A.ej(s,"/aboutus",t.z)},
 $S:0}
 A.ahq.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/team",t.z)
-window.location.href="/team"},
+A.ej(s,"/team",t.z)},
 $S:0}
 A.ahr.prototype={
-$0(){var s="/portfolio",r=$.aP()
-A.dM(r)
-A.ej(r,s,t.z)
-window.location.href=s},
+$0(){var s=$.aP()
+A.dM(s)
+A.ej(s,"/portfolio",t.z)},
 $S:0}
 A.ahs.prototype={
 $0(){var s=$.aP()
 A.dM(s)
-A.ej(s,"/blog",t.z)
-window.location.href="/blog"},
+A.ej(s,"/blog",t.z)},
 $S:0}
 A.IL.prototype={
 K(a){var s=null
